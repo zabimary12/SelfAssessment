@@ -42,11 +42,11 @@
   - higher order 🎓 known
   - recursion 🎓 known
   - callback 🖐️ used
-  - listener 🎓 known
+  - listener 🖐️ used
   - compose  🎓 known
-  - pipe 🎓 known
+  - pipe 🖐️ used
   - memoize 🖐️ used
-  - wrapper 🎓 known
+  - wrapper 🖐️ used
   - functor 🎓 known
   - monad 🎓 known
   - monoid 🎓 known
@@ -70,7 +70,7 @@
   - queue 🖐️ used
   - stack 🖐️ used
   - deque
-  - tree 🎓 known
+  - tree 🖐️ used
   - graph 🖐️ used
   - iterator 🖐️ used
   - mutable state 🎓 known
@@ -83,7 +83,7 @@
   - linter 🎓 known
   - polyfill 🎓 known
   - debugger 🖐️ used
-  - garbage collection 🎓 known
+  - garbage collection 🖐️ used
   - refactoring 🖐️ used
   - code review 🖐️ used
   - antipatterns 🖐️ used

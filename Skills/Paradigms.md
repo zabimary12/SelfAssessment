@@ -9,7 +9,7 @@
   - Prototype-based programming 👂 heard
   - Object-oriented programming 🖐️ used
   - Object-based programming 👂 heard
-  - Generic programming 🎓 known
+  - Generic programming 🖐️ used
   - Concurrent computing 👂 heard
   - Asyncronous programming  🖐️ used
   - Parallel programming 🖐️ used
@@ -19,7 +19,7 @@
   - Domain-specific languages 👂 heard
   - Multi-paradigm programming 👂 heard
   - Metaprogramming 👂 heard
-  - Actor model 🎓 known
+  - Actor model 🖐️ used
 - OOP basics 
   - constructor 🖐️ used
   - new 🖐️ used
@@ -42,23 +42,23 @@
   - Introspection 🖐️ used
   - Reflection 🖐️ used
 - Patterns
-  - Singleton 🎓 known
+  - Singleton 🖐️ used
   - Factory Method 🖐️ used
-  - Abstract Factory 🎓 known
-  - Adapter 🎓 known
+  - Abstract Factory 🖐️ used
+  - Adapter 🖐️ used
   - Observer 🖐️ used
   - Strategy 🖐️ used
-  - Facade 🎓 known
+  - Facade 🖐️ used
   - Proxy 🎓 known
   - Chain of Responsibility 🎓 known
   - Command 🎓 known
   - Iterator 🖐️ used
   - State 🖐️ used
   - Bridge 🖐️ used
-  - Builder 🎓 known
+  - Builder 🖐️ used
   - Prototype 🎓 known
   - Composite 🎓 known
-  - Decorator 🎓 known
+  - Decorator 🖐️ used
   - Flyweight 🎓 known
   - Mediator 🎓 known
   - Memento 🎓 known

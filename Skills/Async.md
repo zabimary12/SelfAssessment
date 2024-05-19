@@ -5,8 +5,8 @@
   - try..catch 🖐️ used
   - Non-blocking 🖐️ used
   - Async I/O 🖐️ used
-  - Thread pool 🎓 known
-  - Pattern Reactor 🎓 known
+  - Thread pool 🖐️ used
+  - Pattern Reactor 🖐️ used
   - CAS operations 
   - epoll 👂 heard
   - kqueue 👂 heard
@@ -32,12 +32,12 @@
   - Sync generator 
   - Async Generator
   - Async Iterator
-  - Event 🎓 known
+  - Event 🖐️ used
   - Coroutine 👂 heard
   - Goroutine 👂 heard
   - Signal 🖐️ used
-  - Stream 🎓 known
-  - Chain of responsibility 🎓 known
+  - Stream 🖐️ used
+  - Chain of responsibility 🖐️ used
   - Middleware 🖐️ used
   - Locks 🖐️ used
 - Async adapters and utils
@@ -52,11 +52,11 @@
   - Readable 🎓 known
   - Writable 🎓 known
   - Transform
-  - Async Pool 🎓 known
+  - Async Pool 🖐️ used
   - Async Queue 🎓 known
-  - Async Collector 🎓 known
-  - Semaphore 🎓 known
-  - Mutex 🎓 known
+  - Async Collector 🖐️ used
+  - Semaphore 🖐️ used
+  - Mutex 🖐️ used
   - Spin Lock 🎓 known
 - JavaScript & Node.js specific
   - Timers 👂 heard
