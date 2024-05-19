@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 🖐️ used
-  - try..catch 🖐️ used
+  - Event loop 🙋 explained
+  - try..catch 🙋 explained
   - Non-blocking 🖐️ used
   - Async I/O 🖐️ used
   - Thread pool 🖐️ used
@@ -13,33 +13,33 @@
   - Completion ports 🎓 known
   - Event ports
   - libuv
-  - Race conditions 🎓 known
-  - Dead locks 🎓 known
-  - Live locks 🎓 known
-  - Concurrent programming  🎓 known
-  - Parallel programming 🎓 known
+  - Race conditions 🖐️ used
+  - Dead locks 🖐️ used
+  - Live locks 🖐️ used
+  - Concurrent programming  🖐️ used
+  - Parallel programming 🖐️ used
   - Actor Model 🎓 known
-  - Thread 🖐️ used
+  - Thread 🙋 explained
   - Process 🖐️ used
 - Async contracts
   - Callbacks 🖐️ used
   - Callback-last-error-first
   - Thenable 👂 heard
   - Promise 👂 heard
-  - Async/await 🖐️ used
+  - Async/await 🙋 explained
   - Future 👂 heard 
   - Deferred
   - Sync generator 
-  - Async Generator
-  - Async Iterator
-  - Event 🖐️ used
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event 🙋 explained
   - Coroutine 👂 heard
   - Goroutine 👂 heard
   - Signal 🖐️ used
   - Stream 🖐️ used
   - Chain of responsibility 🖐️ used
   - Middleware 🖐️ used
-  - Locks 🖐️ used
+  - Locks 🙋 explained
 - Async adapters and utils
   - callbackify 👂 heard
   - promisify 👂 heard
@@ -53,7 +53,7 @@
   - Writable 🎓 known
   - Transform
   - Async Pool 🖐️ used
-  - Async Queue 🎓 known
+  - Async Queue 🖐️ used
   - Async Collector 🖐️ used
   - Semaphore 🖐️ used
   - Mutex 🖐️ used
@@ -75,7 +75,7 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization 👂 heard
   - promisify
   - callbackify
   - AsyncLocalStorage
@@ -88,8 +88,8 @@
   - Promise.allSettled
   - Promise.race
   - Promise.any
-  - Web Locks API
+  - Web Locks API 👂 heard
   - IPC
-  - Channel API
+  - Channel API 👂 heard
   - Revealing Constructor
-  - Web Locks API
+  - Web Locks API 👂 heard
