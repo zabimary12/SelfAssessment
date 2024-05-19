@@ -69,7 +69,7 @@
   - circular list 🎓 known
   - queue 🖐️ used
   - stack 🖐️ used
-  - deque
+  - deque 🎓 known
   - tree 🖐️ used
   - graph 🖐️ used
   - iterator 🖐️ used
@@ -94,7 +94,7 @@
   - complexity 🎓 known
   - decomposition 🎓 known
   - spaghetti  🎓 known
-  - silver bullet 
+  - silver bullet 🎓 known
   - not invented here 🎓 known
   - dead code 🎓 known
   - unreachable code 🖐️ used
