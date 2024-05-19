@@ -49,12 +49,12 @@
   - for..of
   - for await 🖐️ used
   - throw 🖐️ used
-  - break 🖐️ used
+  - break 🙋 explained
   - continue 🖐️ used
   - import 🖐️ used
   - export 🖐️ used
   - label 🖐️ used
-  - try..catch 🖐️ used
+  - try..catch 🙋 explained
   - switch 🖐️ used
   - class 🖐️ used
   - new Error 🖐️ used
@@ -70,7 +70,7 @@
   - mixin
   - extend
   - typed arrays
-  - Map 
+  - Map 🙋 explained
   - Set 🖐️ used
   - undefined
   - null 🖐️ used
@@ -80,7 +80,7 @@
   - EventEmitter
   - RegExp
   - Date 🖐️ used
-  - BigInt 🖐️ used
+  - BigInt 🙋 explained
 - Infrastructure
   - V8
   - Node.js
